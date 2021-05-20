@@ -1,0 +1,40 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: 50px; 
+    text-align: center;
+}
+
+table {
+    border-collapse:collapse; 
+    border:1px solid lightgrey; 
+    margin: 10px; 
+    text-align: center; 
+    font-size: 20px;
+}
+
+tr {
+    background-color:Olive; 
+    color:white; 
+    border:1px solid lightgrey;
+}
+
+td {
+    padding: 5px;
+}
+
+.td_head {
+    padding: 0px;
+}
+
+.td_burlywood {
+    background-color: burlywood;
+    color: black;
+}
+
+.td_white {
+    background-color: white;
+    color: black;
+}
